@@ -240,7 +240,7 @@ nav .fa{
 .testimonials{
     width: 80%;
     margin: auto;
-    padding: 100px;
+    padding: 30px;
     text-align: center;
 }
 .testimonial-col{
@@ -274,6 +274,9 @@ nav .fa{
       .testimonial-col img{
         margin-left: 0px;
         margin-right: 15px;
+      }
+      .testimonials h1{
+          font-size: 20px;
       }
 }
 /*-----call to action*/
